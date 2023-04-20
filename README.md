@@ -15,3 +15,6 @@ Tests are in the `html/` directory of the [web-platform-tests repository](https:
 ### Blame
 
 As the `source` file is too large for [GitHub's blame utility](https://help.github.com/articles/tracing-changes-in-a-file/), use [blame for `source` on searchfox](https://searchfox.org/whatwg-html/source/source) instead.
+
+### Azubi
+After a lot of trial and error, changes have now been made to this readme file. Worth every bit of the effort in my opinion. Coding is indeed fun! I look forward to being proficient with git and github. (yaw.boateng@azubiafrica.org)
